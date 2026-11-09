@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py              @teri-ma-di
+/src/backend/database.py        @teri-ma-di
+/src/backend/routers/auth.py         @teri-ma-di
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/       @teri-ma-di
